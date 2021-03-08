@@ -3,7 +3,7 @@ title: "JSXをただのテンプレートエンジンとして書いてみる"
 emoji: "📈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["react","typescript"]
-published: false
+published: true
 ---
 
 # やったこと
