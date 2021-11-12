@@ -3,7 +3,7 @@ title: "2021年版 lambdaでPDF作成（日本語対応）"
 emoji: "📜"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lambda", "puppeteer", "serverless"]
-published: false
+published: true
 ---
 
 <font size="64">みなさま～～～！</font>
