@@ -6,9 +6,9 @@ topics: ["lambda", "puppeteer", "serverless"]
 published: true
 ---
 
-<font size="64">みなさま～～～！</font>
+**みなさま～～～！**
 
-<font size="64">lambda で PDF、つくりたいですよね？</font>
+**lambda で PDF、つくりたいですよね？**
 
 # lambda で PDF をつくるのは大変
 
